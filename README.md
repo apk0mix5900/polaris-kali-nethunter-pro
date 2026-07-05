@@ -1,4 +1,3 @@
-```
 Misc research & tools for Kali NetHunter Pro on Xiaomi MIX 2S — WiFi fix, boot images, DT patches, and notes.
 
 ---
@@ -9,7 +8,6 @@ To fix the WiFi issue on MIX 2S (polaris), the following property was added to t
 
 ```dts
 qcom,snoc-host-cap-skip-quirk;
-```
 
 Before modification:
 
